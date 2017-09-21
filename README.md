@@ -10,3 +10,7 @@ o ramura trece prin mai multe stadii (modificari, discutii, etc) iar cand este g
 commits = o modificare salvata - fiecare modificare are un text care expica de ce a fost facuta modificarea - mesajele constituie o istorie a modificarilor.
 
 Pull Requests - inima colborarii in github - arata diferentele dintre doua ramuri: diffs
+
+ emoji - pentru editare formule
+ 
+ 
